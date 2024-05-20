@@ -11,7 +11,7 @@ Primer sitio web desarrollado con HTML para el bootcamp de technolochicas PRO, e
 ### Capturas del proyecto
 
 ![Captura Links mariposa chiquita](assets/mariposa.png)
-![Captura Links gato](assets//gato.png)
+![Captura Links gato](assets/gato.png)
 ![Captura Links perro](assets/perro.png)
 
 ## Tecnología utilizada
